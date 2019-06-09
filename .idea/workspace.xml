@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f17ef63-347b-4ce0-b488-d2a6f6c7e70e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/control_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_exercise.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/control_flow.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="723">
               <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function_exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="102" column="26" lean-forward="true" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -49,6 +58,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/numbers.py" />
         <option value="$PROJECT_DIR$/control_flow.py" />
+        <option value="$PROJECT_DIR$/function_exercise.py" />
       </list>
     </option>
   </component>
@@ -115,15 +125,16 @@
       <option name="presentableId" value="Default" />
       <updated>1560058066659</updated>
       <workItem from="1560058067937" duration="461000" />
-      <workItem from="1560058543559" duration="8052000" />
+      <workItem from="1560058543559" duration="10230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8513000" />
+    <option name="totallyTimeSpent" value="10691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="2048" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12912913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -183,6 +194,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="723">
           <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="102" column="26" lean-forward="true" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
         </state>
       </provider>
     </entry>

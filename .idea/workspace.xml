@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f17ef63-347b-4ce0-b488-d2a6f6c7e70e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/function_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_project.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function_exercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="102" column="26" lean-forward="true" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+            <state relative-caret-position="424">
+              <caret line="90" column="23" lean-forward="true" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -59,6 +68,7 @@
         <option value="$PROJECT_DIR$/numbers.py" />
         <option value="$PROJECT_DIR$/control_flow.py" />
         <option value="$PROJECT_DIR$/function_exercise.py" />
+        <option value="$PROJECT_DIR$/game_project.py" />
       </list>
     </option>
   </component>
@@ -125,12 +135,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560058066659</updated>
       <workItem from="1560058067937" duration="461000" />
-      <workItem from="1560058543559" duration="10230000" />
+      <workItem from="1560058543559" duration="11313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10691000" />
+    <option name="totallyTimeSpent" value="11774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="2048" height="1057" extended-state="0" />
@@ -199,8 +209,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/function_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="102" column="26" lean-forward="true" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+        <state relative-caret-position="424">
+          <caret line="90" column="23" lean-forward="true" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 """Error Handling"""
 import re
-from mymodule import func_in_module
+from practice.mymodule import func_in_module
 
 try:
     F = open('simple.txt', 'w')

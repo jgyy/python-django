@@ -1,5 +1,6 @@
 """Python file number two"""
-import one
+from practice import one
+
 print("TOP LEVEL TWO.PY")
 one.func()
 

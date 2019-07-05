@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f17ef63-347b-4ce0-b488-d2a6f6c7e70e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/stylesheetLinters/stylelint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/ProTwo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/ProTwo/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/ProTwo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/ProTwo/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/appTwo/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/first_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-basic/basics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-basic/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-practice/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/control_flow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/error_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/function_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/game_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/mymodule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/oop_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/oop_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/scope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple.txt" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/simple.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-practice/two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-basic/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-basic/tables.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html-basic/basics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+            <state relative-caret-position="680">
+              <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -82,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html-basic/tables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="115">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -163,11 +124,6 @@
             <path>
               <item name="python-django" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-django" type="462c0819:PsiDirectoryNode" />
-              <item name="html-basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-django" type="b2602c69:ProjectViewProjectNode" />
@@ -263,26 +219,26 @@
       <workItem from="1560293647297" duration="5283000" />
       <workItem from="1561261169063" duration="112000" />
       <workItem from="1562196171673" duration="49000" />
-      <workItem from="1562196259056" duration="4256000" />
+      <workItem from="1562196259056" duration="4457000" />
+      <workItem from="1562280829926" duration="865000" />
+      <workItem from="1562282183826" duration="2648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35963000" />
+    <option name="totallyTimeSpent" value="39677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="2048" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.1269443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.12969454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="aws.explorer" order="2" sideWeight="0.5010661" side_tool="true" weight="0.12162162" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -297,7 +253,7 @@
       <window_info anchor="bottom" id="Quokka" order="15" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="16" />
       <window_info anchor="bottom" id="SonarLint" order="17" />
-      <window_info anchor="right" id="Json Parser" />
+      <window_info anchor="bottom" id="GraphQL" order="18" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -306,6 +262,7 @@
       <window_info anchor="right" id="Database" order="5" weight="0.3296593" />
       <window_info anchor="right" id="make" order="6" />
       <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Json Parser" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,15 +471,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html-basic/basics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        <state relative-caret-position="680">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html-basic/tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="115">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
         </state>
       </provider>
     </entry>

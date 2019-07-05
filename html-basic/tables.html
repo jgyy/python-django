@@ -33,12 +33,40 @@
         </tr>
     </table>
 
-    <form>
+    <form action="https://www.tech.gov.sg" method="get">
         <h1>Log In</h1>
         <h2>Please Input your Email and Password</h2>
+        <label for="fn">First Name: </label>
+        <input id="fn" type="text" name="" placeholder="">
+        <label for="ln">Last Name: </label>
+        <input id="ln" type="text" name="" placeholder="">
+        <label for="useremail">Email: </label>
+        <input id="useremail" type="email" name="useremail" placeholder="Email Here" required>
         <label>
-            <input type="email" name="useremail" value="">
+            <input type="password" name="password" value="">
+            <input type="text" name="userinput" placeholder="Text goes here">
+            <input type="color" name="" value="">
         </label>
+
+        <h3>Are you from inside the US? Or Outside the US?</h3>
+        <label for="inusa">Inside: </label>
+        <input id="inusa" type="radio" name=loc"" value="inside">
+        <label for="outusa">Outside: </label>
+        <input id="outusa" type="radio" name=loc"" value="outside">
+
+        <h2>How was your service?</h2>
+        <label for="stars">Stars: </label>
+        <select id="stars" name="stars">
+            <option value="Great">3</option>
+            <option value="Okay">2</option>
+            <option value="Bad">1</option>
+        </select>
+        
+        <h2>Any other feedback?</h2>
+        <label for="mytext">Feedback: </label>
+        <textarea name="mytext" id="mytext" cols="30" rows="10"></textarea>
+
+        <input type="submit" name="" value="Submit">
     </form>
 </body>
 </html>
